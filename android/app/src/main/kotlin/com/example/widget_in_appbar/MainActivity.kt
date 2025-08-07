@@ -1,0 +1,5 @@
+package com.example.widget_in_appbar
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
